@@ -7,7 +7,7 @@
 Ultima versão: Agosto 2024
 
 <h2>Descrição de Projeto</h2>
- Projeto de várias paginas de perguntas e respostas, com respostas certas e erradas, e no final há pontuação marcada pelos acertos.
+ 
 
 <h2>Status do Projeto</h2>'
 <h4 align="center">
