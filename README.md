@@ -11,7 +11,7 @@ Ultima versão: Agosto 2024
 
 <h2>Status do Projeto</h2>'
 <h4 align="center">
-:star: Projeto Concluído! :star:
+:star: Projeto em Andamento :star:
 </h4>
 <h2>:hammer:Funcionalidades e Demonstração da Aplicação</h2>
 <h2>Acesso ao projeto</h2>
